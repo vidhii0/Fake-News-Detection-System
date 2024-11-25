@@ -5,6 +5,12 @@ This project implements a **Fake News Detection System** using **Natural Languag
 ## Project Overview
 
 With the rise of misinformation and fake news, detecting the authenticity of news articles has become crucial. This project uses NLP techniques to automatically detect whether a given news article is real or fake. The classification model is trained on a labeled dataset and utilizes **TF-IDF** vectorization for transforming text data into numerical features.
+## Dataset
+
+The dataset used for this project can be downloaded from the following link:
+
+- [Fake News Dataset](https://www.kaggle.com/competitions/fake-news/data)
+
 
 ## Features
 
